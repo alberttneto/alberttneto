@@ -1,7 +1,5 @@
 ### Olá Mundo! Eu sou Alberto Ferreira. Seja bem vindo ao meu perfil do GitHub. 👋
 
--📚 No momento, estou aprendendo sobre HTML, CSS e JavaScript.
-
 <br>
 <div>
   <a href="https://github.com/alberttneto">
