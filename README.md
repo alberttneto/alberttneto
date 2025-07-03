@@ -1,4 +1,4 @@
-### Olá Mundo! Eu sou Alberto Ferreira. Seja bem vindo ao meu perfil do GitHub. 👋
+### Seja bem vindo ao meu perfil do GitHub. 👋
 
 🎓 Bacharel em Ciência da Computação - UFU <br>
 📚 Cursando Pós-graduação Lato Sensu em Ciência de Dados - UFG <br>
