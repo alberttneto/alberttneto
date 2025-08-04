@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfil do GitHub. 👋
 
-💻 Residente em Análise de Dados - TJGO
+💻 Residente em Análise de Dados - TJGO <br>
 🎓 Bacharel em Ciência da Computação - UFU <br>
 📚 Cursando Pós-graduação Lato Sensu em Ciência de Dados - UFG <br>
 <!--💻 Interesse em Machine Learning, Big Data e Análise de Dados -->
