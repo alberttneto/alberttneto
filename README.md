@@ -5,6 +5,7 @@
 📚 Cursando Pós-graduação Lato Sensu em Ciência de Dados - UFG <br>
 <!--💻 Interesse em Machine Learning, Big Data e Análise de Dados -->
 
+##
 
 <br>
 <div>
@@ -21,6 +22,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> -->
+
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
